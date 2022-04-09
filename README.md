@@ -1,4 +1,4 @@
-# Sarcasm-Detection
+# Sarcasm_Detection_Deep_Learning
 
 The aim of a convolution network is to reduce frequency variation through convolutional filters and 
 extracting discriminating word sequences as a composite feature map for the LSTM layer.
